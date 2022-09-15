@@ -16,3 +16,6 @@
 [submodule "Trigon | ssquoE1y48rB93OMvNEx"]
 	path = Trigon | ssquoE1y48rB93OMvNEx
 	url = https://github.com/Asterdev-03/SHN_1.git
+[submodule "BITLEGION | 3zAG2YoTxyYrrXObTzKO"]
+	path = BITLEGION | 3zAG2YoTxyYrrXObTzKO
+	url = https://github.com/noelmaby/tinker_supabase.git
