@@ -34,3 +34,6 @@
 [submodule "SPL | pCsnGousiQ58Wt8WwiIw"]
 	path = SPL | pCsnGousiQ58Wt8WwiIw
 	url = https://github.com/Tkpointz/Supabase-API.git
+[submodule "Peakers | qClWe84y0JiKN0TA67ST"]
+	path = Peakers | qClWe84y0JiKN0TA67ST
+	url = https://github.com/RiyaMathew-11/supabase-init
