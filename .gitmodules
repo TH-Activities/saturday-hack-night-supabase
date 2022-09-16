@@ -22,3 +22,6 @@
 [submodule "TeamFLEG | vUeIcwIhjaoNXZEPzSMM"]
 	path = TeamFLEG | vUeIcwIhjaoNXZEPzSMM
 	url = https://github.com/TeamFLEG/sat-hacknight-supabase
+[submodule "HackOverFlow | qGsKeCqJk24LVRc5AZpC"]
+	path = HackOverFlow | qGsKeCqJk24LVRc5AZpC
+	url = https://github.com/FasnaSharaf/supabase_tinkerhub.git
