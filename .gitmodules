@@ -19,3 +19,6 @@
 [submodule "BITLEGION | 3zAG2YoTxyYrrXObTzKO"]
 	path = BITLEGION | 3zAG2YoTxyYrrXObTzKO
 	url = https://github.com/noelmaby/tinker_supabase.git
+[submodule "TeamFLEG | vUeIcwIhjaoNXZEPzSMM"]
+	path = TeamFLEG | vUeIcwIhjaoNXZEPzSMM
+	url = https://github.com/TeamFLEG/sat-hacknight-supabase
