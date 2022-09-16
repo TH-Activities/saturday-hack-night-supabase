@@ -25,3 +25,6 @@
 [submodule "HackOverFlow | qGsKeCqJk24LVRc5AZpC"]
 	path = HackOverFlow | qGsKeCqJk24LVRc5AZpC
 	url = https://github.com/FasnaSharaf/supabase_tinkerhub.git
+[submodule "Pheonix | DNmd2ggTx3pBA0rkKiJK"]
+	path = Pheonix | DNmd2ggTx3pBA0rkKiJK
+	url = https://github.com/ajmalmohad/pheonix-supabase
